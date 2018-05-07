@@ -23,7 +23,7 @@ if (string.toUpperCase() === uppercase) {
   } 
 }
 function sayHiToGrandma(string) {
-  
+  if 
 }
 string.toLowerCase() === lowercase) {
    {
