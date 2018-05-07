@@ -26,14 +26,3 @@ function sayHiToGrandma(string) {
     return "I love you, too."
   }
 }
-//if (string.toLowerCase() === string) {
-  //function sayHiToGrandma(string) {
-    //return "I can't hear you!"
- // }
-//} 
-
-//if (string === "I love you, Grandma.") {
- // function sayHiToGrandma(string) {
-  //  return "I love you, too."
- // }
-//}
