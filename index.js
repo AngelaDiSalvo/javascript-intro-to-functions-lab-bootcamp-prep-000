@@ -1,4 +1,4 @@
-var string = "hello!"
+var string = "I love you, Grandma."
 var uppercase = "HELLO!"
 uppercase.toUpperCase() === uppercase // true
  
