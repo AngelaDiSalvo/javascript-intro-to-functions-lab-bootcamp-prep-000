@@ -1,4 +1,4 @@
-//var string = "I love you, Grandma."
+var string
 function shout(string) {
   return string.toUpperCase()
 }
